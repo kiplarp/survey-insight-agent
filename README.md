@@ -46,7 +46,7 @@ survey-insight-agent/
 
 ## Governance controls
 
-- Approved source: survey export or mock survey dataset only.
+- Approved source: mock survey dataset only.
 - No personal data enrichment.
 - Human review required for safety, legal, reputational, privacy, or conduct-related issues.
 - All AI-generated summaries are treated as draft outputs.
